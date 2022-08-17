@@ -12,6 +12,7 @@ $id_cat = isset($_POST['id_categoria']) ? $_POST['id_categoria'] : null;
 $sucesso = false;
 $erro = false;
 
+
 if (!empty($error) && $error <= '2') {
     $class = 'alert-danger';
     $erro = true;
