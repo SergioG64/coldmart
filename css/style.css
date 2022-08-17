@@ -1,0 +1,75 @@
+.white {
+    color: white;
+}
+
+.black {
+    color: black;
+}
+
+.logo-span {
+    color: blue;
+}
+
+.navbar-brand:hover {
+    color: black;
+}
+
+.navbar-brand:focus {
+    color: black;
+}
+
+.nav-link:active {
+    color: rgba(255, 255, 255, 0.473);
+}
+
+.nav-link:focus {
+    color: black;
+}
+
+.nav-link:hover {
+    /* color: rgba(255, 255, 255, 0.473); */
+    color: rgba(0, 0, 0, 0.363);
+}
+
+.dropdown-menu {
+    border: none;
+    border-top: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.background-color-blue-login {
+    background-color: rgb(13, 110, 253);
+}
+
+.background-color-white-login {
+    background-color: white;
+    height: 100vh;
+    width: 100%;
+}
+
+.overflow {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.logo-login {
+    font-size: xx-large;
+    margin-top: -15vh;
+}
+
+.alert-ajust {
+    margin-top: -5vh;
+}
+
+.form-login {
+    display: flex;
+    align-items: center;
+}
+
+.separate {
+    margin-top: 2vh;
+    width: 70%;
+    margin-left: 7vh;
+    justify-content: center;
+}
