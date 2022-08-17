@@ -13,7 +13,6 @@ if (!empty($error) && $error <= '4') {
 } elseif (!empty($success) && $success <= '1') {
     $class = 'alert-success';
     $sucesso = true;
-    $sucesso = true;
 }
 
 
